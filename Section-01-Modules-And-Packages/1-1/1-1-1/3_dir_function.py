@@ -1,5 +1,5 @@
 # Q1: What does the `dir()` function do without any arguments?
-<<<<<<< HEAD
+
 
 
 def greet():
